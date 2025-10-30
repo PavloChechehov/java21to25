@@ -1,4 +1,4 @@
-package com.paul;
+package com.paul.virtualthreads;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;

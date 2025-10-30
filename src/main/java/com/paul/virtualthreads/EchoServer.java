@@ -1,4 +1,4 @@
-package com.paul;
+package com.paul.virtualthreads;
 
 import java.io.BufferedReader;
 import java.io.IOException;

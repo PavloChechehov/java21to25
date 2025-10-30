@@ -1,4 +1,4 @@
-package com.paul;
+package com.paul.virtualthreads;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.Executors;
